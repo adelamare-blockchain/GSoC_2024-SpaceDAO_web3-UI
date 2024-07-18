@@ -1,4 +1,4 @@
-# Space Traffic Web3 UI
+# Space Traffic Web3 UI | Google Summer Of Code 2024
 
 ![Logo SpaceDAO](https://spacedao.ai/static/img/spacedao-logo.png)
 
