@@ -9,13 +9,13 @@
 
 - [About project](#-about-the-project)
 - [Folder Structure](#folder-structure)
-- [Key Features](#key-features)
-- [Built with](#built-with)
-- [Getting started](#getting-started)
-- [Prerequisities](#prerequisities)
+- [Key Features](#-key-features)
+- [Built with](#-built-with)
+- [Getting started](#-getting-started)
+- [Prerequisities](#-prerequisities)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Other infos for Developers](#other-info-for-developers)
+- [Other infos for Developers](#-other-info-for-developers)
 - [Contributing](#-contributing)
 - [Licensing](#-licensing)
 - [Contact](#-contact)
@@ -63,24 +63,36 @@ Follow these steps to set up the project locally.
 ## Prerequisities
 
 - Node.js (v14.x or later)
-- Yarn package manager
+- npm (v6.0.0 or later)
 - MetaMask or similar Web3 wallet
 
 ## Installation
 
 1. Clone the repository
-   `git clone https://gitlab.com/spacedao/frontend/spacedao-global-ui.git`
-   `cd spacedao-global-ui`
+
+   ```sh
+   git clone https://gitlab.com/spacedao/frontend/spacedao-global-ui.git
+   cd spacedao-global-ui
+   ```
 
 2. Install dependencies
-   `yarn install`
+
+   ```sh
+   npm install
+   ```
 
 3. Set up environment variables
-   `cp .env.example .env.local`
-   Edit `.env.local` with your specific configuration.
+
+```sh
+ cp .env.example .env
+ # Edit .env with your specific configuration
+```
 
 4. Start the development server
-   `yarn dev`
+
+   ```sh
+   npm run dev
+   ```
 
 5. Open `http://localhost:5173/` in your browser
 
@@ -119,9 +131,24 @@ npm run test:unit
 Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+
+```sh
+git checkout -b feature/AmazingFeature
+```
+
+3. Commit your Changes
+
+```sh
+git commit -m 'Add some AmazingFeature'
+```
+
+4. Push to the Branch
+
+```sh
+git push origin feature/AmazingFeature
+```
+
 5. Open a Merge Request
 
 Don't forget to give the project a star! Thanks again!
