@@ -5,17 +5,17 @@
 [Explore the docs »](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/tree/antoine?ref_type=heads)
 · [View Demo](https://spacedao.ai/) · [Report Bug](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/issues) · [Request Feature](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/issues)
 
-## Contents
+## Table Of Contents
 
 - [About project](#-about-the-project)
 - [Folder Structure](#folder-structure)
-- [Key Features](#-key-features)
-- [Built with](#-built-with)
+- [Key features](#key-features)
+- [Built with](#built-with)
 - [Getting started](#-getting-started)
 - [Prerequisities](#-prerequisities)
-- [Installation](#-installation)
+- [Installation](#installation)
 - [Usage](#-usage)
-- [Other infos for Developers](#-other-info-for-developers)
+- [Other infos for Developers](#other-info-for-developers)
 - [Contributing](#-contributing)
 - [Licensing](#-licensing)
 - [Contact](#-contact)
