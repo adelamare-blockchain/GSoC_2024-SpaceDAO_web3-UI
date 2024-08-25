@@ -2,20 +2,20 @@
 
 ![Logo SpaceDAO](https://spacedao.ai/static/img/spacedao-logo.png)
 
-[Explore the docs »](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/tree/antoine?ref_type=heads)
+[Explore the docs »](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/tree/main)
 · [View Demo](https://spacedao.ai/) · [Report Bug](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/issues) · [Request Feature](https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/issues)
 
 ## Table Of Contents
 
 - [About project](#-about-the-project)
-- [Folder Structure](#folder-structure)
-- [Key features](#key-features)
-- [Built with](#built-with)
+- [Folder Structure](#-folder-structure)
+- [Key features](#-key-features)
+- [Built with](#-built-with)
 - [Getting started](#-getting-started)
 - [Prerequisities](#-prerequisities)
-- [Installation](#installation)
+- [Installation](#-installation)
 - [Usage](#-usage)
-- [Other infos for Developers](#other-info-for-developers)
+- [Other infos for Developers](#-other-info-for-developers)
 - [Contributing](#-contributing)
 - [Licensing](#-licensing)
 - [Contact](#-contact)
@@ -162,4 +162,4 @@ See `LICENSE` for more information.
 ## 📞 Contact
 
 - SpaceDAO Team - [@SpaceDAO](https://www.linkedin.com/company/space-dao-ai/)
-- Project Link: https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/tree/antoine?ref_type=heads
+- Project Link: https://gitlab.com/spacedao/frontend/spacedao-global-ui/-/tree/main
